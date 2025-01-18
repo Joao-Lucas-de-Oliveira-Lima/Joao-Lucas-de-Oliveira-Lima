@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" alt="Coding" width="330px">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" alt="Coding" width="310px">
 
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
