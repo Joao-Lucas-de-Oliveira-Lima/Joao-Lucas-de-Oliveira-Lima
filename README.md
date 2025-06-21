@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **GREat**  
+🔭 I’m currently working on [**GREat**](https://www.great.ufc.br/)  
 👯 I’m open to collaborating on **open source projects**  
 🌱 I’m currently learning **Angular** and **Python**  
 💬 Feel free to ask me about **Java** and **Spring**
